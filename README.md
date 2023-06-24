@@ -4,17 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 
-- 🔭 I’m currently working on [Quote Maker](https://github.com/Maruthi158/QuoteMaker.git)
+- 🔭 I’m currently working in BNY Mellon
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **java,sql,html,css,swift**
+- 💬 Ask me about **Java,SQL, HTML,CSS, swift**
 
-- 📫 How to reach me **teja.avula076@gmail.com**
+- 📫 How to reach me **tejaswi.avula199@gmail.com**
 
-<h3>Projects I Worked On </h3>
 
-[Travel Website](https://tejatravelsite.ccbp.tech/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaavula076&show_icons=true&locale=en&layout=compact" alt="tejaavula076" /></p>
 
