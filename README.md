@@ -4,13 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 
-- 🔭 I’m currently working in BNY Mellon
+- 🔭 I’m currently working in SIRA Consulting Inc.
 
-- 🌱 I’m currently learning **Frameworks**
+- 💬 Ask me about **Java,SQL,HTML,CSS,MERN**
 
-- 💬 Ask me about **Java,SQL, HTML,CSS, swift**
-
-- 📫 How to reach me **tejaswi.avula199@gmail.com**
+- 📫 How to reach me **t.avula.2712@westcliff.edu**
 
 
 
