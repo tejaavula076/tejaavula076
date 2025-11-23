@@ -11,15 +11,6 @@
 - 📫 How to reach me **t.avula.2712@westcliff.edu**
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaavula076&show_icons=true&locale=en&layout=compact" alt="tejaavula076" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaavula076&show_icons=true&locale=en" alt="tejaavula076" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaavula076&" alt="tejaavula076" /></p>
-
 ### Links to Certifications
 - [Basic concepts of Big Data](https://www.credly.com/earner/earned/badge/47ed300a-c07c-439a-890b-746be2f8ea33)
 
