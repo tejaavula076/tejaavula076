@@ -163,7 +163,6 @@ I enjoy transforming complex business requirements into intuitive interfaces and
 
 - 📧 Email: **t.avula.2712@westcliff.edu**
 - 💼 LinkedIn: **www.linkedin.com/in/tejaswi-29a598382**
-- 💻 GitHub: *(this profile)*
 
 ---
 
